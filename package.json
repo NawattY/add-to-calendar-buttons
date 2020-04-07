@@ -1,0 +1,46 @@
+{
+  "name": "@wycliffeusa/add-to-calendar-buttons",
+  "version": "1.0.0",
+  "description": "A simple JS library that enables you to add an \"add to calendar\" button for your upcoming events - forked from commonpike",
+  "main": "add-to-calendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wycliffe-USA/add-to-calendar-buttons.git"
+  },
+  "keywords": [
+    "ouical",
+    "calendar",
+    "add-to-calendar",
+    "add-to-calendar-buttons",
+    "google calendar",
+    "yahoo calendar",
+    "iCal",
+    "Outlook Calendar"
+  ],
+  "author": "carlsednaoui",
+  "contributors": [
+    {
+      "name": "commonpike",
+      "email": "kpike-github@kw.nl",
+      "url": "https://github.com/commonpike/add-to-calendar-buttons"
+    },
+    {
+      "name": "mary cook",
+      "email": "mary@maryrosecook.com",
+      "url": "https://maryrosecook.com/"
+    },
+    {
+      "name": "Yehuda Ringler",
+      "email": "yrappdev@gmail.com",
+      "url": "https://www.linkedin.com/in/yehuda-ringler-78280b19a/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wycliffe-USA/add-to-calendar-buttons/issues"
+  },
+  "homepage": "https://github.com/Wycliffe-USA/add-to-calendar-buttons#readme"
+}
